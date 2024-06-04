@@ -1,0 +1,3 @@
+python manage.py loaddata accounts/deposit_join_data.json accounts/portfolio_base_data.json accounts/portfolio_data.json accounts/saving_join_data.json accounts/stock_buy_data.json accounts/user_data.json
+
+유저 비밀번호는 모두 1234
